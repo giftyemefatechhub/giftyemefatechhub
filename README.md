@@ -5,7 +5,7 @@
 ---
 ## About Me
 
-I’m a Computer Science student at Kristianstad University, graduating in June 2025. I specialize in software development with interests in machine learning, mobile development, and real-world applications that create positive impact. My background in education and community engagement deeply influences my approach to technology—practical, inclusive, and purpose-driven.
+I’m a Computer Science student at Kristianstad University, graduating in June 2025. I specialize in software development with interests in machine learning, mobile development, and real-world applications that create positive impact. My background in education and community engagement deeply influences my approach to technology which is practical, inclusive, and purpose-driven.
 
 As someone who loves languages and communication, I bring that same curiosity and adaptability into my work as a developer. Whether I'm building a full-stack application, designing a mobile tool, or contributing to a learning platform, I enjoy turning ideas into software that is both functional and human-centered.
 
