@@ -3,12 +3,14 @@
 ## 👋 Welcome | Välkommen | Bienvenido | Woezɔ | Akwaaba | Benvido | Ojekoo
 
 ---
-
 ## About Me
 
-I’m a Computer Science student at Kristianstad University, graduating in June 2025. I specialize in software development with interests in machine learning, mobile development, and real-world applications that create positive impact. My background in education and community engagement deeply influences my approach to technology: practical, inclusive, and purpose-driven.
+I’m a Computer Science student at Kristianstad University, graduating in June 2025. I specialize in software development with interests in machine learning, mobile development, and real-world applications that create positive impact. My background in education and community engagement deeply influences my approach to technology—practical, inclusive, and purpose-driven.
 
-I enjoy transforming ideas into usable, user-focused software—whether it's through full-stack applications, mobile tools, or learning platforms. Beyond code, I value communication, team collaboration, and building with empathy.
+As someone who loves languages and communication, I bring that same curiosity and adaptability into my work as a developer. Whether I'm building a full-stack application, designing a mobile tool, or contributing to a learning platform, I enjoy turning ideas into software that is both functional and human-centered.
+
+Beyond code, I value clear communication, team collaboration, and building with empathy because the best tech solutions are built by and for real people.
+
 
 ---
 
@@ -46,11 +48,14 @@ I enjoy transforming ideas into usable, user-focused software—whether it's thr
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)  
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 
+
 ### Backend & APIs  
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)  
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com)  
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)  
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)  
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+
 
 ### Databases  
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)  
