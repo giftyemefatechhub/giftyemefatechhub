@@ -15,10 +15,9 @@ Beyond code, I value clear communication, team collaboration, and building with 
 ---
 
 ## Currently Exploring
-
-- Software architecture and design principles  
+ 
 - Cross-platform development using .NET MAUI  
-- Machine learning for predictive modeling  
+- Machine learning powered apps  
 - Building tools that support education and healthcare accessibility
 
 ---
